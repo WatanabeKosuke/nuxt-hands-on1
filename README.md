@@ -1,4 +1,4 @@
-# hanson1
+# handson1
 
 > My superb Nuxt.js project
 
