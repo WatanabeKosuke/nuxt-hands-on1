@@ -2,6 +2,9 @@
 
 > My superb Nuxt.js project
 
+## My Awesome Page
+https://gallant-johnson-9940fa.netlify.com/
+
 ## Build Setup
 
 ``` bash
